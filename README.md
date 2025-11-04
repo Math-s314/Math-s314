@@ -19,8 +19,9 @@ I'm a student at [École Polytechnique](https://www.polytechnique.edu/en/school/
 
 ### 🛸 Gravit'Issue
 
-*A platformer video game developed as a student project at École Polytechnique, completed in just 60 hours. In Gravit'Issue, gravity is a core mechanic: players can manipulate it to discover and solve levels. The game aims to immerse the player in the solitude experienced by a robot stranded in a ruined space station.*  
-[→ View on GitHub](https://github.com/Math-s314/gravit-issue_project)
+*A platformer video game developed as a student project at École Polytechnique. In Gravit'Issue, gravity is a core mechanic: players can manipulate it to discover and solve levels. The game aims to immerse the player in the solitude experienced by a robot stranded in a ruined space station.*  
+[→ View on GitHub](https://github.com/Math-s314/gravit-issue_project)  
+[→ Play on Itch.io](https://maths314.itch.io/gravit-issue)
 
 ### 🧮 Asynchronous Linear Algebra Library
 
